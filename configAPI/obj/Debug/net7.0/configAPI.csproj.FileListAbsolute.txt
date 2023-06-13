@@ -1,0 +1,7 @@
+C:\Users\videl\Documents\configAPI\configAPI\obj\Debug\net7.0\configAPI.csproj.AssemblyReference.cache
+C:\Users\videl\Documents\configAPI\configAPI\obj\Debug\net7.0\configAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\videl\Documents\configAPI\configAPI\obj\Debug\net7.0\configAPI.AssemblyInfoInputs.cache
+C:\Users\videl\Documents\configAPI\configAPI\obj\Debug\net7.0\configAPI.AssemblyInfo.cs
+C:\Users\videl\Documents\configAPI\configAPI\obj\Debug\net7.0\configAPI.csproj.CoreCompileInputs.cache
+C:\Users\videl\Documents\configAPI\configAPI\obj\Debug\net7.0\configAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\videl\Documents\configAPI\configAPI\obj\Debug\net7.0\configAPI.MvcApplicationPartsAssemblyInfo.cache

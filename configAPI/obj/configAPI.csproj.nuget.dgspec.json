@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\videl\\Documents\\configAPI\\configAPI\\configAPI\\configAPI.csproj": {}
+    "C:\\Users\\videl\\Documents\\configAPI\\configAPI\\configAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\videl\\Documents\\configAPI\\configAPI\\configAPI\\configAPI.csproj": {
+    "C:\\Users\\videl\\Documents\\configAPI\\configAPI\\configAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\videl\\Documents\\configAPI\\configAPI\\configAPI\\configAPI.csproj",
+        "projectUniqueName": "C:\\Users\\videl\\Documents\\configAPI\\configAPI\\configAPI.csproj",
         "projectName": "configAPI",
-        "projectPath": "C:\\Users\\videl\\Documents\\configAPI\\configAPI\\configAPI\\configAPI.csproj",
+        "projectPath": "C:\\Users\\videl\\Documents\\configAPI\\configAPI\\configAPI.csproj",
         "packagesPath": "C:\\Users\\videl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\videl\\Documents\\configAPI\\configAPI\\configAPI\\obj\\",
+        "outputPath": "C:\\Users\\videl\\Documents\\configAPI\\configAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,6 +52,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
             }
           },
           "imports": [
